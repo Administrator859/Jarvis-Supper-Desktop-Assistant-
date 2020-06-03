@@ -1,13 +1,14 @@
 # Jarvis-Supper-Desktop-Assistant-
 you need linux or something bash console in your computer
 
-### You need to git clone my project ###
+### linux: You need to git clone my project ###
 ```
 git clone https://github.com/Administrator859/Jarvis-Supper-Desktop-Assistant
 ```
-### if you finish to git ###
+### linux: if you finish to git ###
 to download the requirements
 ```
+pip3 install -r requirements.txt
 pip2 install -r requirements.txt
 ```
 ### If you are using windows ###
